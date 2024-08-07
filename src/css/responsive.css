@@ -1,0 +1,7 @@
+@media (max-width: 1440px){
+    .img-list{
+        max-width: 900px;
+        margin: 45px 0px;
+        gap: 0;
+    }
+}
